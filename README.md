@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Javascript Developer</p>
+<p align="left">- I'm Raphael, I'm 25 years old, Brazilian and a JavaScript enthusiast. I love exploring new technologies and creating interesting projects!</p>
 
 ###
 
@@ -43,5 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernzuldev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernzuldev&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/fernzuldev/fernzuldev/output/snake.svg" alt="Snake animation" />
 
 ###
