@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- I'm Raphael, I'm 25 years old, Brazilian and a JavaScript enthusiast. I love exploring new technologies and creating interesting projects!</p>
+<p align="left">- My name is Raphael, I'm 25 years old, Brazilian and a JavaScript enthusiast. I love exploring new technologies and creating interesting projects!</p>
 
 ###
 
